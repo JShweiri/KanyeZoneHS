@@ -1,4 +1,4 @@
-# Kanye Zone High Score Bot README
+# Kanye Zone High Score Script
 
 ## Overview
 
